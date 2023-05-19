@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
-      <a class="navbar-brand" href="#">Kulineran</a>
+      <router-link class="navbar-brand" to="/">Kulineran</router-link>
       <button
         class="navbar-toggler"
         type="button"

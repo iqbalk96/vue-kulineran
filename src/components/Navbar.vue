@@ -1,7 +1,9 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
-      <router-link class="navbar-brand" to="/">Kulineran</router-link>
+      <router-link class="navbar-brand" to="/">
+        <img :src="require('@/assets/logoipsum.svg')" alt="logo ipsum" class="w-100" />
+      </router-link>
       <button
         class="navbar-toggler"
         type="button"

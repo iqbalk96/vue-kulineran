@@ -13,6 +13,10 @@ Vue.use(BootstrapVueIcons)
 Vue.config.productionTip = false
 
 new Vue({
+<<<<<<< HEAD
   router,
   render: h => h(App)
+=======
+  render: h => h(App),
+>>>>>>> e1b2bf015b7d436cdbe4d042204fbbb7f05de348
 }).$mount('#app')

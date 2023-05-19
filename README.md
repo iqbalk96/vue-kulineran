@@ -22,3 +22,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Json-server
+```
+For make fake API, please read https://github.com/typicode/json-server and use my db.json instead assets/db.json
+```
